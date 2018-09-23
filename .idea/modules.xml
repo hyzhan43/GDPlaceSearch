@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GDPlaceSearch.iml" filepath="$PROJECT_DIR$/GDPlaceSearch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/app.iml" filepath="$PROJECT_DIR$/example/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/search-core/search-core.iml" filepath="$PROJECT_DIR$/search-core/search-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\Holiday\GDPlaceSearch\example\app.iml" filepath="H:\Holiday\GDPlaceSearch\example\app.iml" />
+      <module fileurl="file://H:\Holiday\GDPlaceSearch\app\example.iml" filepath="H:\Holiday\GDPlaceSearch\app\example.iml" />
     </modules>
   </component>
 </project>
